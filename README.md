@@ -22,7 +22,7 @@ It allows you to generate strong passwords, save them in an encrypted local vaul
 
 ### 1. Clone
 bash
-git clone https://github.com/<your-username>/passkey.git
+git clone https://github.com/<azizhash256>/passkey.git
 cd passkey
 2. Setup (recommended: virtualenv)
 bash
